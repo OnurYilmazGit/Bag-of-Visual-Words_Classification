@@ -9,3 +9,13 @@ Following are the steps implemented (in order):
 1. Learn a codebook of size 1000 i.e. the size of Bag of Visual Words is 1000, using K-Means clustering
 1. Train a linear, soft-margin SVM using 5-fold cross-validation on the training dataset
 1. Test the accuracy of the SVM model learnt on the test dataset
+
+# Results
+Below is the plot of accuracy (during cross-validation) against the value of regularisation parameter: <br/>
+
+![Regularisation](https://github.com/adityajain07/Bag-of-Visual-Words_Classification/blob/master/Regularisation.png) <br/>
+
+
+*Classification Accuracy on Test Data:* 83.65%
+
+
