@@ -16,6 +16,6 @@ Below is the plot of accuracy (during cross-validation) against the value of reg
 ![Regularisation](https://github.com/adityajain07/Bag-of-Visual-Words_Classification/blob/master/Regularisation.png) <br/>
 
 
-*Classification Accuracy on Test Data:* 83.65%
+**Classification Accuracy on Test Data:** 83.65%
 
 
